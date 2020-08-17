@@ -1,5 +1,4 @@
 from tkinter.filedialog import *
-
 import socket, threading, requests, time, playsound, math
 
 class GUI(Frame):
